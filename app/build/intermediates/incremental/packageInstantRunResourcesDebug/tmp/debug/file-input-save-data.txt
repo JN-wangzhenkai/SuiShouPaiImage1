@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Sep 04 16:28:53 CST 2018
+1.base=E\:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\assets\\debug
+2.path=image_frame_big_2.png
+0.baseType=DIRECTORY
+2.base=E\:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=image_frame_big_1.png
+0.set=ASSET
+0.base=E\:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=image_frame_big_3.png

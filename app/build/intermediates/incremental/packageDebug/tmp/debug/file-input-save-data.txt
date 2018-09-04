@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Tue Sep 04 16:29:01 CST 2018
+2.base=E\:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+5.set=ASSET
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=E\:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+2.set=DEX
+1.path=classes.dex
+4.base=E\:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\assets\\debug
+count=7
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=E\:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\assets\\debug
+4.set=ASSET
+3.path=classes.dex
+6.base=E\:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\assets\\debug
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=image_frame_big_1.png
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=image_frame_big_3.png
+0.base=E\:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+0.baseType=DIRECTORY
+3.set=DEX
+6.path=image_frame_big_2.png
+1.base=E\:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+4.baseType=DIRECTORY
+0.set=DEX

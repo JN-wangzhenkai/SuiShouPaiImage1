@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_increase.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\layout\\popup_increase.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iamge_watch_4.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\iamge_watch_4.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_button_bg_right.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_button_bg_right.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_watch_3.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_watch_3.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_frame_5.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_frame_5.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_frame_2.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_frame_2.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_watch_6.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_watch_6.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_effect_gz.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_effect_gz.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\layout_griditem_addpic.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\layout\\griditem_addpic.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_button_bg_left.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_button_bg_left.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_effect_hj.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_effect_hj.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_effect.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_effect.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_editview_shape.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\editview_shape.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_effect_fd.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_effect_fd.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_watch_2.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_watch_2.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_watch_nor.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_icon_watch_nor.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_add_picture.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\main_add_picture.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gridview_addpic.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\gridview_addpic.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_person.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\layout\\popup_person.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_frame_3.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_frame_3.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_watch_5.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_watch_5.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_person_1.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_person_1.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_person_3.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_person_3.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_effect_sel.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_icon_effect_sel.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_increase_sel.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_icon_increase_sel.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_frame.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\layout\\popup_frame.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_watch_4.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_watch_4.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_home_layout_bg.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_home_layout_bg.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_effect.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\layout\\popup_effect.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_process.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\layout\\activity_process.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_frame_nor.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_icon_frame_nor.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_increase_nor.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_icon_increase_nor.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_person_nor.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_icon_person_nor.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_watch_1.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_watch_1.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_frame_sel.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_icon_frame_sel.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_watch.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\layout\\popup_watch.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_watch_sel.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_icon_watch_sel.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_entry.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\anim\\anim_entry.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_person_sel.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_icon_person_sel.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_exit.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\anim\\anim_exit.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_person_2.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_person_2.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_toolbar_bg.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_toolbar_bg.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_home_layout_no.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_home_layout_no.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_frame_4.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_frame_4.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_icon_effect_nor.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_icon_effect_nor.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_take_photo.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\main_take_photo.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_effect_sm.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_effect_sm.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_frame_1.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_frame_1.png"
+    },
+    {
+        "merged": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_button_bg.png.flat",
+        "source": "E:\\MyAndroidProjects\\SuiShouPaiImage1\\app\\src\\main\\res\\drawable-hdpi\\image_button_bg.png"
+    }
+]

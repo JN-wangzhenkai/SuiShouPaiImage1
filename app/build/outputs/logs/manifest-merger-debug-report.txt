@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:10:22-81
+uses-permission#android.permission.CAMERA
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:12:22-62
+uses-sdk
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:15:5-17:41
+INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:15:5-17:41
+INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:15:5-17:41
+INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:15:5-17:41
+INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:15:5-17:41
+	android:targetSdkVersion
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:17:9-38
+		INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:16:9-35
+		INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:19:5-36:19
+	android:label
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.suishoupaiimage.MainActivity
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:25:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.suishoupaiphotoprocessing.ProcessActivity
+ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:34:9-35:20
+	android:name
+		ADDED from E:\MyAndroidProjects\SuiShouPaiImage1\app\src\main\AndroidManifest.xml:34:19-87
